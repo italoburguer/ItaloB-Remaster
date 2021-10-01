@@ -31,11 +31,11 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#menu">¡ Armala !</a></li>
-          <li><a class="nav-link scrollto" href="#specials">Specials</a></li>
+          <li><a class="nav-link scrollto" href="#gallery">¡ Order!</a></li>
+          <li><a class="nav-link scrollto" href="#menu">¡ yourself !</a></li>
+          <li><a class="nav-link scrollto" href="#specials">ingredients</a></li>
           <li><a class="nav-link scrollto" href="#events">Events</a></li>
           <li><a class="nav-link scrollto" href="#chefs">Chefs</a></li>
-          <li><a class="nav-link scrollto" href="#gallery">¡ Pídela !</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a> -->
             <!-- <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -52,7 +52,7 @@
               <li><a href="#">Drop Down 3</a></li>
               <li><a href="#">Drop Down 4</a></li>
             </ul> -->
-          </li>
+          <!-- </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contactanos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -162,16 +162,16 @@
 
         <div class="section-title">
           <h2>Menu</h2>
-          <p>Check Our Tasty Menu</p>
+          <p>Check Our otions</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="menu-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-starters">Starters</li>
-              <li data-filter=".filter-salads">Salads</li>
-              <li data-filter=".filter-specialty">Specialty</li>
+              <li data-filter="*" class="filter-active">Meats</li>
+              <li data-filter=".filter-starters">Vegetables</li>
+              <li data-filter=".filter-salads">Features</li>
+              <li data-filter=".filter-specialty">Drinks</li>
             </ul>
           </div>
         </div>
