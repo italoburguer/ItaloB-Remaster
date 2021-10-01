@@ -723,7 +723,7 @@
               <img src="@/assets/img/chefs/chefs-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
+                  <h4>Ricardo Andres Bastidas</h4>
                   <span>Patissier</span>
                 </div>
                 <div class="social">
