@@ -377,7 +377,7 @@
 
         <div class="section-title">
           <h2>Events</h2>
-          <p>Nuestras mas solicitadas por nuestros clientes.</p>
+          <p>Nuestras mas solicitadas por nuestros clientes</p>
         </div>
 
         <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
