@@ -741,7 +741,7 @@
               <img src="@/assets/img/chefs/chefs-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
+                  <h4>Milton Alberto Medina</h4>
                   <span>Cook</span>
                 </div>
                 <div class="social">
@@ -922,7 +922,7 @@
 </template>
 <style scoped>
 #hero{
-    background: url("../assets/img/about-bg.jpg") center center;
+    background: url("../assets/img/plamburguer.jpg") center center;
     
 }
 
