@@ -12,8 +12,7 @@
 
       <!-- <div class="languages d-none d-md-flex align-items-center">
         <ul>
-          <li>En</li>
-          <li><a href="#">De</a></li>
+          <li>En</li>         <li><a href="#">De</a></li>
         </ul>
       </div> -->
     </div>
@@ -32,8 +31,13 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#gallery">¡ Order!</a></li>
           <li><a class="nav-link scrollto" href="#menu">¡ yourself !</a></li>
+<<<<<<< HEAD
           <li><a class="nav-link scrollto" href="#specials">ingredientss</a></li>
           <li><a class="nav-link scrollto" href="#events">Events</a></li>
+=======
+          <li><a class="nav-link scrollto" href="#specials">ingredients</a></li>
+          <li><a class="nav-link scrollto" href="#events"></a></li>
+>>>>>>> 1ef8556 (logo)
           <li><a class="nav-link scrollto" href="#chefs">Chefs</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a> -->
             <!-- <ul>
@@ -75,7 +79,7 @@
           </div>
         </div>
         <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
-          <a href="https://www.youtube.com/MzuvxWFdjYI" class="glightbox play-btn"></a>
+          <a href="https://www.youtube.com/watch?v=ZRYyL72avdc" class="glightbox play-btn"></a>
         </div>
 
       </div>
@@ -385,21 +389,20 @@
             <div class="swiper-slide">
               <div class="row event-item">
                 <div class="col-lg-6">
-                  <img src="@/assets/img/event-birthday.jpg" class="img-fluid" alt="">
+                  <img src="@/assets/img/clasica-italoburguer.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h3>Birthday Parties</h3>
+                  <h3>CLASICA italoBurguer</h3>
                   <div class="price">
-                    <p><span>$189</span></p>
+                    <p><span>$ 14</span></p>
                   </div>
                   <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                   
                   </p>
                   <ul>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                    <li><i class="bi bi-check-circled"></i> </li>
+                    <li><i class="bi bi-check-circled"></i>Clasica italoBurguer: Carne 180gs, queso chedal, tomate, lechuga y albahaca. </li>
+                    <li><i class="bi bi-check-circled"></i> </li>
                   </ul>
                   <p>
                     Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
@@ -921,7 +924,11 @@
 </template>
 <style scoped>
 #hero{
+<<<<<<< HEAD
     background: url("../assets/img/plamburguer.jpg") center center;
+=======
+    background: url("../assets/img/about-bg-ita.jpg") center center;
+>>>>>>> 1ef8556 (logo)
     
 }
 
