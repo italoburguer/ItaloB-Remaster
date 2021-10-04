@@ -10,12 +10,12 @@
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Martes a domingo: 3PM - 11PM </span></i>
       </div>
 
-      <div class="languages d-none d-md-flex align-items-center">
+      <!-- <div class="languages d-none d-md-flex align-items-center">
         <ul>
           <li>En</li>
           <li><a href="#">De</a></li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </div>
 
@@ -162,7 +162,7 @@
 
         <div class="section-title">
           <h2>Menu1</h2>
-          <p>Check Our otions</p>
+          <p>Check Our options</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -612,7 +612,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Gallery</h2>
-          <p>Some photos from Our Restaurant</p>
+          <p>Some photos from Our Menu</p>
         </div>
       </div>
 
