@@ -6,7 +6,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+57 310 444 55 66</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+57 310 555 55 66</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Martes a domingo: 3PM - 11PM </span></i>
       </div>
 
