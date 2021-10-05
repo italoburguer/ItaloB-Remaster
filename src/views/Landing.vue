@@ -22,8 +22,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-cente">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
-
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Restaurantly</a></h1>
+       <h1 class="logo me-auto me-lg-0"><a href="index.html">italoBurguer</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="@/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -57,7 +56,7 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-      <a href="#book-a-table" class="book-a-table-btn scrollto d-none d-lg-flex">Book a table</a>
+      <a href="#book-a-table" class="book-a-table-btn scrollto d-none d-lg-flex">libro en la mesa</a>
 
     </div>
   </header><!-- End Header -->
@@ -377,7 +376,7 @@
 
         <div class="section-title">
           <h2>Events</h2>
-          <p>Organize Your Events in our Restaurant</p>
+          <p>Nuestras mas solicitadas por nuestros clientes.</p>
         </div>
 
         <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
