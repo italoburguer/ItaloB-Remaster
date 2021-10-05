@@ -1,18 +1,17 @@
 <template>
     <div>
-        <!-- <users-></users-> -->
+        <users v-bind:users="users"></users>
     </div>
 </template>
 
 <script>
 import api from'@/api';
-// import Users from '@/views/Users.vue';
+import Users from '@/views/Users.vue';
 
 export default {
     name: 'Home',
     components:{ 
-        // Users   
-        
+        Users         
     },
     data(){
         return {
@@ -20,11 +19,11 @@ export default {
         }
     },
     created(){
-        api.getUsersPromise().then(data => console.log(data));
-        // (async ()=>{ 
-        //     this.users = await api.getUsersAsync();
-        // console.log(this.users);
-        // })();
+        //api.getUsersPromise().then(data => console.log(data));
+        ( async ()=>{ 
+            this.users = await api.getUsersAsync();
+            console.log(this.users);
+        })();
     }
 }
 </script>
