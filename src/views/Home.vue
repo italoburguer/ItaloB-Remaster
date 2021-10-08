@@ -1,6 +1,6 @@
 <template>
     <div>
-        <users v-bind:users="users"></users>
+        <Users v-bind:users="users"></Users>
     </div>
 </template>
 
@@ -20,10 +20,11 @@ export default {
     },
     created(){
         //api.getUsersPromise().then(data => console.log(data));
-        ( async ()=>{ 
-            this.users = await api.getUsersAsync();
-            console.log(this.users);
-        })();
+        api.getUsersPromise().then(data => this.users = data);
+        // ( async ()=>{ 
+        //     this.users = await api.getUsersAsync();
+        //     console.log(this.users);
+        // })();
     }
 }
 </script>

@@ -1,28 +1,37 @@
-// const endpoint = 'https://randomuser.me/api/';
-const url = 'https://randomuser.me/api/?results=50';
+const url = 'https://randomuser.me/api/';
 //funcion con promesa
-function getUsersPromise(){
-    return fetch(url)
-    .then(res => res.json())
-    .then(res => res.results)
-    .catch(err => console.log(err));
+function getUsersPromise() {
+    return fetch(url+'?results=50')
+        .then(res => res.json())
+        .then(res => res.results)
+        .catch(err => console.log(err));
 }
 //peticion asincrona
-const getUsersAsync = async ()=>{
+const getUsersAsync = async () => {
     try {
-        const res = await fetch(url);
+        const res = await fetch(url+'?results=50');
         const data = await res.json();
         return data.results;
-        
-    } catch (err){
+    } catch (err) {
         console.log(err);
     }
-  }
+}
 
-
+const getUserData = async (id)=>{
+    try {
+         const res = await fetch(`${url}?id=`+id);      
+         //const res = await fetch(url+'?id='+id); 
+         const data = await res.json();
+         return data.results[0];     
+    } catch (error) {
+        console.log(error);
+        
+    }
+}
 
 export default {
     getUsersPromise,
-    getUsersAsync
+    getUsersAsync,
+    getUserData
 
 }

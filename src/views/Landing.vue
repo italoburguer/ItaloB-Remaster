@@ -920,8 +920,7 @@
 </template>
 <style scoped>
 #hero{
-    background: url("../assets/img/about-bg-ita.jpg") center center;
-    
+    background: url("../assets/img/about-bg-ita.jpg") center center;    
 }
 
 </style>
