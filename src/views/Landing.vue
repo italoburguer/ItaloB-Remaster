@@ -32,7 +32,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#gallery">¡ Order!</a></li>
           <li><a class="nav-link scrollto" href="#menu">¡ yourself !</a></li>
-          <li><a class="nav-link scrollto" href="#specials">ingredients</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#specials">ingredients</a></li> -->
           <li><a class="nav-link scrollto" href="#events"></a></li>
           <li><a class="nav-link scrollto" href="#chefs">Chefs</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a> -->
@@ -116,7 +116,7 @@
     </section><!-- End About Section -->
 
     <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
+    <!-- <section id="why-us" class="why-us">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -153,7 +153,8 @@
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+    </section> -->
+    <!-- End Why Us Section -->
 
     <!-- ======= Menu Section ======= -->
     <section id="menu" class="menu section-bg">
@@ -273,7 +274,7 @@
     </section><!-- End Menu Section -->
 
     <!-- ======= Specials Section ======= -->
-    <section id="specials" class="specials">
+    <!-- <section id="specials" class="specials">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -368,21 +369,22 @@
         </div>
 
       </div>
-    </section><!-- End Specials Section -->
+    </section> -->
+    <!-- End Specials Section -->
 
     <!-- ======= Events Section ======= -->
     <section id="events" class="events">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
+        <!-- <div class="section-title">
           <h2>Events</h2>
           <p>Nuestras mas solicitadas por nuestros clientes</p>
-        </div>
+        </div> -->
 
         <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="row event-item">
                 <div class="col-lg-6">
                   <img src="@/assets/img/clasica-italoburguer.jpg" class="img-fluid" alt="">
@@ -406,7 +408,8 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="row event-item">
@@ -433,7 +436,8 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
+            <!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="row event-item">
@@ -460,14 +464,16 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
+            <!-- End testimonial item -->
 
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
-    </section><!-- End Events Section -->
+    </section>
+    <!-- End Events Section -->
 
     <!-- ======= Book A Table Section ======= -->
     <section id="book-a-table" class="book-a-table">
@@ -524,15 +530,15 @@
     <section id="testimonials" class="testimonials section-bg">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
+        <!-- <div class="section-title">
           <h2>Testimonials</h2>
           <p>What they're saying about us</p>
-        </div>
+        </div> -->
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -543,9 +549,10 @@
                 <h3>Saul Goodman</h3>
                 <h4>Ceo &amp; Founder</h4>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -556,9 +563,10 @@
                 <h3>Sara Wilsson</h3>
                 <h4>Designer</h4>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -569,9 +577,10 @@
                 <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -582,9 +591,10 @@
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -595,14 +605,16 @@
                 <h3>John Larson</h3>
                 <h4>Entrepreneur</h4>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    <!-- End Testimonials Section -->
 
     <!-- ======= Gallery Section ======= -->
     <section id="gallery" class="gallery">
