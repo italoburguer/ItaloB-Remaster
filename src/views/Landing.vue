@@ -175,7 +175,7 @@
 
         <div class="section-title">
           <h2>Menu por ingredientes</h2>
-          <p>Elija su opción preferida</p>
+          <p>Elija su opción</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -442,7 +442,7 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
+    <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
@@ -471,7 +471,10 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li> 
+              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
