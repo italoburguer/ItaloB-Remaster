@@ -32,7 +32,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#gallery">¡ Order!</a></li>
           <li><a class="nav-link scrollto" href="#menu">¡ yourself !</a></li>
-          <li><a class="nav-link scrollto" href="#specials">ingredients</a></li>
+          <li><a class="nav-link scrollto" href="#specials">ingredientss</a></li>
           <li><a class="nav-link scrollto" href="#events">Events</a></li>
           <li><a class="nav-link scrollto" href="#chefs">Chefs</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a> -->
