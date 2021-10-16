@@ -1,29 +1,22 @@
+
+
+// ------------------------------------------ nuevo ------------------------------- 
+
 <template>
-    <div>
-        <users v-bind:users="users"></users>
-    </div>
+  <div class="home">
+    <img alt="Vue logo" src="../assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  </div>
 </template>
 
 <script>
-import api from'@/api';
-import Users from '@/views/Users.vue';
+// @ is an alias to /src
+import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-    name: 'Home',
-    components:{ 
-        Users         
-    },
-    data(){
-        return {
-            users:[]
-        }
-    },
-    created(){
-        //api.getUsersPromise().then(data => console.log(data));
-        ( async ()=>{ 
-            this.users = await api.getUsersAsync();
-            console.log(this.users);
-        })();
-    }
+  name: 'Home',
+  components: {
+    HelloWorld
+  }
 }
 </script>
