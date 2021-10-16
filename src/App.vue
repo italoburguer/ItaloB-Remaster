@@ -473,15 +473,15 @@
       <!-- ======= Book A Table Section ======= -->
       <section id="book-a-table" class="book-a-table">
         <div class="container" data-aos="fade-up">
-          <!-- <div class="section-title">
+          <div class="section-title">
             <h2>Tu orden</h2>
 
             <p>Artículos</p>
-          </div> -->
+          </div>
 
             <div id="app">
     <div id="nav">
-      <!-- <router-link to="/productos">Producttos</router-link> -->
+      <router-link to="/productos">Productos</router-link>
     </div>
     <router-view/>
   </div>
